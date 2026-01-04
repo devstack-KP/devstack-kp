@@ -1,18 +1,19 @@
 <h1 align="center"> Hi, I’m Kanhaiya Pandit </h1>
 <h3 align="center">Senior Full Stack Web Developer | Laravel Specialist | Remote-Ready</h3> <br>
-<p>I’m a Senior Full Stack Developer with 5+ years of industry experience, currently working as a PHP Laravel Developer. I design and build scalable, secure, and high-performance web applications with a strong emphasis on clean architecture, code quality, and long-term maintainability.</p>
-<p>I take ownership of projects end-to-end—from system design and backend APIs to frontend performance and deployment. I enjoy leading features, mentoring teammates, and delivering production-ready solutions for real-world business problems.</p>
+<h4>I’m a Senior Full Stack Developer with 5+ years of industry experience, currently working as a PHP Laravel Developer. I design and build scalable, secure, and high-performance web applications with a strong emphasis on clean architecture, code quality, and long-term maintainability.</h4>
+<h4>I take ownership of projects end-to-end—from system design and backend APIs to frontend performance and deployment. I enjoy leading features, mentoring teammates, and delivering production-ready solutions for real-world business problems.</h4>
 
 
 ## 💼 What I Bring to the Table
-
-🧠 System & API Design with scalability and security in mind <br>
-⚙️ Backend Leadership using Laravel best practices<br>
-🎨 Frontend Development with modern, responsive UI<br>
-🔐 Authentication & Authorization (Sanctum, JWT, API security)<br>
-🚀 Performance Optimization (queries, caching, code structure, scalability)<br>
-🧩 Problem Solving & Refactoring legacy systems<br>
-🤝 Remote Collaboration with cross-functional teams<br>
+<ul>
+<li>🧠 System & API Design with scalability and security in mind</li>
+<li>⚙️ Backend Leadership using Laravel best practices</li>
+<li>🎨 Frontend Development with modern, responsive UI</li>
+<li>🔐 Authentication & Authorization (Sanctum, JWT, API security)</li>
+<li>🚀 Performance Optimization (queries, caching, code structure)</li>
+<li>🧩 Problem Solving & Refactoring legacy systems</li>
+<li>🤝 Remote Collaboration with cross-functional teams</li>
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imkanhaiyapandit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devstack-KP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhaiyapandit1997+dev@gmail.com) 
