@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m Kanhaiya Pandit </h1>
-<h3 align="center">Senior Full Stack Web Developer | Laravel Specialist | Remote-Ready</h3> <br>
+<h3 align="center">Full Stack Web Developer | Laravel Specialist | Remote-Ready</h3> <br>
 <h4>I’m a Senior Full Stack Developer with 5+ years of industry experience, currently working as a PHP Laravel Developer. I design and build scalable, secure, and high-performance web applications with a strong emphasis on clean architecture, code quality, and long-term maintainability.</h4>
 <h4>I take ownership of projects end-to-end—from system design and backend APIs to frontend performance and deployment. I enjoy leading features, mentoring teammates, and delivering production-ready solutions for real-world business problems.</h4>
 
